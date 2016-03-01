@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TabDemo2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="photos_fragment">Photos</string>
+    <string name="video_fragment">Videos</string>
+    <string name="song_fragment">Songs</string>
+</resources>
